@@ -1,5 +1,7 @@
 from confluent_kafka import Consumer
 from cassandra.cluster import Cluster
+import cassandra_query
+import json
 ################
 c=Consumer({'bootstrap.servers':'localhost:9092','group.id':'python-consumer','auto.offset.reset':'earliest'})
 print('Kafka Consumer has been initiated...')
@@ -21,8 +23,11 @@ def main():
             print('Error: {}'.format(msg.error()))
             continue
         data=msg.value().decode('utf-8')
-
+        #cassandra_query.insert("test","test","test","test","test")
         print(data)
+        jsonObject=json.loads(data)
+        print(jsonObject["device_id"])
+        cassandra_query.insert(jsonObject["device_id"],jsonObject["login_date"],jsonObject["device_ip"],jsonObject["device_name"],jsonObject["platform"])
         last_message=data
     c.close()
 

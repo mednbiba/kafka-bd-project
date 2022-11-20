@@ -1,2 +1,196 @@
-2022-11-13 20:46:23 Produced message on topic myLogs with value of {"device_id": 45156, "device_name": "Martinez-Computer", "device_ip": "172.25.114.153", "platform": "Ubuntu", "login_date": "2022-11-04 01:20:10"}
+2022-11-14 13:39:17 Produced message on topic myLogs with value of {"device_id": 73926, "device_name": "Myers-Computer", "device_ip": "10.170.26.238", "platform": "Ubuntu", "login_date": "2022-11-06 07:08:07"}
+
+2022-11-14 13:39:21 Produced message on topic myLogs with value of {"device_id": 73260, "device_name": "Marshall-Computer", "device_ip": "10.236.171.24", "platform": "MacOS", "login_date": "2022-11-04 04:22:49"}
+
+2022-11-14 14:08:02 Produced message on topic myLogs with value of {"device_id": 44213, "device_name": "Campbell-Computer", "device_ip": "192.168.254.246", "platform": "Windows", "login_date": "2022-11-10 10:33:30"}
+
+2022-11-14 14:08:06 Produced message on topic myLogs with value of {"device_id": 41315, "device_name": "Garcia-Computer", "device_ip": "192.168.58.239", "platform": "MacOS", "login_date": "2022-11-02 20:16:13"}
+
+2022-11-14 14:08:10 Produced message on topic myLogs with value of {"device_id": 84094, "device_name": "Cooper-Computer", "device_ip": "172.24.63.249", "platform": "Windows", "login_date": "2022-11-02 08:25:02"}
+
+2022-11-20 19:55:33 Produced message on topic myLogs with value of {"device_id": 24402, "device_name": "Payne-Computer", "device_ip": "10.243.41.251", "platform": "MacOS", "login_date": "2022-11-09 05:10:38"}
+
+2022-11-20 19:55:37 Produced message on topic myLogs with value of {"device_id": 64169, "device_name": "James-Computer", "device_ip": "192.168.169.227", "platform": "Windows", "login_date": "2022-11-18 01:42:43"}
+
+2022-11-20 20:56:03 Produced message on topic myLogs with value of {"device_id": 30342, "device_name": "Yang-Computer", "device_ip": "10.147.38.30", "platform": "MacOS", "login_date": "2022-11-14 23:42:03"}
+
+2022-11-20 20:56:07 Produced message on topic myLogs with value of {"device_id": 57762, "device_name": "Butler-Computer", "device_ip": "10.121.145.50", "platform": "Ubuntu", "login_date": "2022-11-16 19:08:28"}
+
+2022-11-20 20:56:12 Produced message on topic myLogs with value of {"device_id": 84279, "device_name": "Wilson-Computer", "device_ip": "192.168.32.148", "platform": "Windows", "login_date": "2022-11-12 14:21:44"}
+
+2022-11-20 20:56:16 Produced message on topic myLogs with value of {"device_id": 75852, "device_name": "Mcdonald-Computer", "device_ip": "10.119.33.247", "platform": "Ubuntu", "login_date": "2022-11-02 16:07:29"}
+
+2022-11-20 20:56:20 Produced message on topic myLogs with value of {"device_id": 26851, "device_name": "Bradley-Computer", "device_ip": "192.168.252.109", "platform": "Windows", "login_date": "2022-11-02 08:23:33"}
+
+2022-11-20 20:56:24 Produced message on topic myLogs with value of {"device_id": 62948, "device_name": "Faulkner-Computer", "device_ip": "192.168.138.167", "platform": "Ubuntu", "login_date": "2022-11-06 03:56:32"}
+
+2022-11-20 20:56:28 Produced message on topic myLogs with value of {"device_id": 24179, "device_name": "Bradford-Computer", "device_ip": "172.24.254.49", "platform": "Windows", "login_date": "2022-11-18 01:15:53"}
+
+2022-11-20 20:56:32 Produced message on topic myLogs with value of {"device_id": 26302, "device_name": "Yates-Computer", "device_ip": "10.245.173.25", "platform": "Windows", "login_date": "2022-11-20 14:51:52"}
+
+2022-11-20 20:56:36 Produced message on topic myLogs with value of {"device_id": 95901, "device_name": "Palmer-Computer", "device_ip": "192.168.31.192", "platform": "Ubuntu", "login_date": "2022-11-10 14:14:39"}
+
+2022-11-20 20:56:40 Produced message on topic myLogs with value of {"device_id": 60235, "device_name": "Graham-Computer", "device_ip": "172.20.71.255", "platform": "Windows", "login_date": "2022-11-05 20:25:19"}
+
+2022-11-20 20:56:44 Produced message on topic myLogs with value of {"device_id": 84143, "device_name": "Clark-Computer", "device_ip": "192.168.3.234", "platform": "MacOS", "login_date": "2022-11-14 11:23:36"}
+
+2022-11-20 20:56:48 Produced message on topic myLogs with value of {"device_id": 80510, "device_name": "Carroll-Computer", "device_ip": "10.100.84.162", "platform": "MacOS", "login_date": "2022-11-04 01:19:44"}
+
+2022-11-20 20:57:11 Produced message on topic myLogs with value of {"device_id": 53346, "device_name": "Pearson-Computer", "device_ip": "172.27.50.13", "platform": "Ubuntu", "login_date": "2022-11-17 21:11:09"}
+
+2022-11-20 20:57:15 Produced message on topic myLogs with value of {"device_id": 53881, "device_name": "Roberts-Computer", "device_ip": "172.24.206.174", "platform": "Windows", "login_date": "2022-11-14 19:43:00"}
+
+2022-11-20 20:57:52 Produced message on topic myLogs with value of {"device_id": 39374, "device_name": "Dougherty-Computer", "device_ip": "192.168.171.22", "platform": "Windows", "login_date": "2022-11-06 12:28:28"}
+
+2022-11-20 20:57:56 Produced message on topic myLogs with value of {"device_id": 24344, "device_name": "Sexton-Computer", "device_ip": "10.107.247.82", "platform": "Ubuntu", "login_date": "2022-11-06 13:11:32"}
+
+2022-11-20 20:58:00 Produced message on topic myLogs with value of {"device_id": 46868, "device_name": "Mcclure-Computer", "device_ip": "10.182.7.247", "platform": "MacOS", "login_date": "2022-11-11 04:00:38"}
+
+2022-11-20 20:58:05 Produced message on topic myLogs with value of {"device_id": 33541, "device_name": "Hernandez-Computer", "device_ip": "192.168.236.226", "platform": "Ubuntu", "login_date": "2022-11-03 23:45:37"}
+
+2022-11-20 20:58:09 Produced message on topic myLogs with value of {"device_id": 47622, "device_name": "Ewing-Computer", "device_ip": "10.242.219.249", "platform": "MacOS", "login_date": "2022-11-16 15:47:28"}
+
+2022-11-20 20:58:13 Produced message on topic myLogs with value of {"device_id": 29146, "device_name": "Smith-Computer", "device_ip": "172.24.83.18", "platform": "Ubuntu", "login_date": "2022-11-11 18:01:12"}
+
+2022-11-20 20:58:17 Produced message on topic myLogs with value of {"device_id": 78889, "device_name": "Miller-Computer", "device_ip": "192.168.68.226", "platform": "Ubuntu", "login_date": "2022-11-11 22:47:45"}
+
+2022-11-20 20:58:21 Produced message on topic myLogs with value of {"device_id": 72916, "device_name": "Mcneil-Computer", "device_ip": "192.168.78.107", "platform": "Windows", "login_date": "2022-11-13 10:55:17"}
+
+2022-11-20 20:58:25 Produced message on topic myLogs with value of {"device_id": 81872, "device_name": "Charles-Computer", "device_ip": "192.168.55.19", "platform": "Ubuntu", "login_date": "2022-11-16 07:55:18"}
+
+2022-11-20 20:58:29 Produced message on topic myLogs with value of {"device_id": 33421, "device_name": "Sanders-Computer", "device_ip": "172.19.239.136", "platform": "MacOS", "login_date": "2022-11-20 13:52:01"}
+
+2022-11-20 20:58:33 Produced message on topic myLogs with value of {"device_id": 71028, "device_name": "Lyons-Computer", "device_ip": "192.168.132.153", "platform": "Windows", "login_date": "2022-11-03 05:39:39"}
+
+2022-11-20 20:58:37 Produced message on topic myLogs with value of {"device_id": 96899, "device_name": "Arroyo-Computer", "device_ip": "10.241.245.121", "platform": "MacOS", "login_date": "2022-11-11 16:09:51"}
+
+2022-11-20 20:58:41 Produced message on topic myLogs with value of {"device_id": 94775, "device_name": "Martinez-Computer", "device_ip": "172.21.11.113", "platform": "Ubuntu", "login_date": "2022-11-13 23:50:56"}
+
+2022-11-20 20:58:45 Produced message on topic myLogs with value of {"device_id": 49374, "device_name": "Brown-Computer", "device_ip": "192.168.213.161", "platform": "MacOS", "login_date": "2022-11-11 06:09:42"}
+
+2022-11-20 20:58:49 Produced message on topic myLogs with value of {"device_id": 90941, "device_name": "Mcguire-Computer", "device_ip": "10.133.97.134", "platform": "MacOS", "login_date": "2022-11-11 17:23:09"}
+
+2022-11-20 20:58:53 Produced message on topic myLogs with value of {"device_id": 44935, "device_name": "Salazar-Computer", "device_ip": "172.16.219.26", "platform": "Ubuntu", "login_date": "2022-11-04 05:26:49"}
+
+2022-11-20 20:58:57 Produced message on topic myLogs with value of {"device_id": 22297, "device_name": "Torres-Computer", "device_ip": "172.18.195.228", "platform": "Ubuntu", "login_date": "2022-11-09 21:12:24"}
+
+2022-11-20 20:59:01 Produced message on topic myLogs with value of {"device_id": 90246, "device_name": "Herrera-Computer", "device_ip": "172.29.189.93", "platform": "Ubuntu", "login_date": "2022-11-10 16:06:56"}
+
+2022-11-20 20:59:05 Produced message on topic myLogs with value of {"device_id": 43577, "device_name": "Carson-Computer", "device_ip": "10.101.20.222", "platform": "Ubuntu", "login_date": "2022-11-01 07:14:07"}
+
+2022-11-20 20:59:09 Produced message on topic myLogs with value of {"device_id": 36364, "device_name": "Conner-Computer", "device_ip": "10.75.152.70", "platform": "Ubuntu", "login_date": "2022-11-19 22:13:47"}
+
+2022-11-20 20:59:13 Produced message on topic myLogs with value of {"device_id": 50277, "device_name": "Roman-Computer", "device_ip": "192.168.97.166", "platform": "MacOS", "login_date": "2022-11-20 12:06:40"}
+
+2022-11-20 20:59:17 Produced message on topic myLogs with value of {"device_id": 61311, "device_name": "Harris-Computer", "device_ip": "10.32.252.60", "platform": "MacOS", "login_date": "2022-11-02 08:11:12"}
+
+2022-11-20 20:59:21 Produced message on topic myLogs with value of {"device_id": 82483, "device_name": "Chambers-Computer", "device_ip": "192.168.195.225", "platform": "MacOS", "login_date": "2022-11-08 02:41:39"}
+
+2022-11-20 20:59:25 Produced message on topic myLogs with value of {"device_id": 77338, "device_name": "Wheeler-Computer", "device_ip": "10.118.224.73", "platform": "Windows", "login_date": "2022-11-17 09:23:35"}
+
+2022-11-20 20:59:29 Produced message on topic myLogs with value of {"device_id": 27432, "device_name": "Hill-Computer", "device_ip": "10.108.166.153", "platform": "Ubuntu", "login_date": "2022-11-20 13:41:02"}
+
+2022-11-20 20:59:33 Produced message on topic myLogs with value of {"device_id": 79941, "device_name": "Hunter-Computer", "device_ip": "10.98.230.110", "platform": "MacOS", "login_date": "2022-11-12 19:03:01"}
+
+2022-11-20 20:59:37 Produced message on topic myLogs with value of {"device_id": 94555, "device_name": "Howell-Computer", "device_ip": "192.168.230.223", "platform": "MacOS", "login_date": "2022-11-01 00:20:48"}
+
+2022-11-20 20:59:41 Produced message on topic myLogs with value of {"device_id": 54863, "device_name": "Lewis-Computer", "device_ip": "192.168.125.194", "platform": "Windows", "login_date": "2022-11-19 17:43:42"}
+
+2022-11-20 20:59:45 Produced message on topic myLogs with value of {"device_id": 92030, "device_name": "Smith-Computer", "device_ip": "10.191.187.175", "platform": "Windows", "login_date": "2022-11-02 14:31:25"}
+
+2022-11-20 20:59:49 Produced message on topic myLogs with value of {"device_id": 54908, "device_name": "Boyd-Computer", "device_ip": "172.20.219.159", "platform": "Ubuntu", "login_date": "2022-11-05 01:34:11"}
+
+2022-11-20 20:59:53 Produced message on topic myLogs with value of {"device_id": 60162, "device_name": "Wood-Computer", "device_ip": "192.168.91.113", "platform": "MacOS", "login_date": "2022-11-07 13:06:14"}
+
+2022-11-20 20:59:57 Produced message on topic myLogs with value of {"device_id": 65230, "device_name": "Mcdonald-Computer", "device_ip": "192.168.192.228", "platform": "Windows", "login_date": "2022-11-18 01:58:11"}
+
+2022-11-20 21:00:01 Produced message on topic myLogs with value of {"device_id": 49015, "device_name": "Harding-Computer", "device_ip": "10.182.50.216", "platform": "Windows", "login_date": "2022-11-06 22:16:32"}
+
+2022-11-20 21:00:05 Produced message on topic myLogs with value of {"device_id": 68310, "device_name": "Kelley-Computer", "device_ip": "10.159.96.163", "platform": "MacOS", "login_date": "2022-11-18 17:39:59"}
+
+2022-11-20 21:00:09 Produced message on topic myLogs with value of {"device_id": 80966, "device_name": "Riley-Computer", "device_ip": "172.24.249.45", "platform": "Windows", "login_date": "2022-11-11 00:56:29"}
+
+2022-11-20 21:00:13 Produced message on topic myLogs with value of {"device_id": 57736, "device_name": "Myers-Computer", "device_ip": "192.168.0.179", "platform": "MacOS", "login_date": "2022-11-03 20:12:07"}
+
+2022-11-20 21:00:17 Produced message on topic myLogs with value of {"device_id": 70027, "device_name": "Horn-Computer", "device_ip": "172.24.186.127", "platform": "Windows", "login_date": "2022-11-17 10:54:37"}
+
+2022-11-20 21:00:21 Produced message on topic myLogs with value of {"device_id": 70222, "device_name": "Thomas-Computer", "device_ip": "172.17.124.99", "platform": "Windows", "login_date": "2022-11-17 08:18:59"}
+
+2022-11-20 21:00:25 Produced message on topic myLogs with value of {"device_id": 71096, "device_name": "Jordan-Computer", "device_ip": "10.236.114.216", "platform": "Ubuntu", "login_date": "2022-11-12 18:30:38"}
+
+2022-11-20 21:00:29 Produced message on topic myLogs with value of {"device_id": 72583, "device_name": "Mcpherson-Computer", "device_ip": "192.168.212.117", "platform": "Windows", "login_date": "2022-11-01 03:06:45"}
+
+2022-11-20 21:00:33 Produced message on topic myLogs with value of {"device_id": 54071, "device_name": "Avila-Computer", "device_ip": "10.128.58.104", "platform": "Windows", "login_date": "2022-11-12 01:28:24"}
+
+2022-11-20 21:00:37 Produced message on topic myLogs with value of {"device_id": 59831, "device_name": "Anderson-Computer", "device_ip": "172.18.118.193", "platform": "Windows", "login_date": "2022-11-12 00:16:14"}
+
+2022-11-20 21:00:41 Produced message on topic myLogs with value of {"device_id": 91523, "device_name": "Nguyen-Computer", "device_ip": "10.198.137.255", "platform": "Ubuntu", "login_date": "2022-11-06 18:54:07"}
+
+2022-11-20 21:00:45 Produced message on topic myLogs with value of {"device_id": 41521, "device_name": "Neal-Computer", "device_ip": "10.222.19.250", "platform": "Ubuntu", "login_date": "2022-11-14 14:26:45"}
+
+2022-11-20 21:00:49 Produced message on topic myLogs with value of {"device_id": 54948, "device_name": "Evans-Computer", "device_ip": "172.24.147.103", "platform": "Windows", "login_date": "2022-11-20 08:41:54"}
+
+2022-11-20 21:00:53 Produced message on topic myLogs with value of {"device_id": 70323, "device_name": "Sullivan-Computer", "device_ip": "192.168.54.128", "platform": "Ubuntu", "login_date": "2022-11-20 18:36:10"}
+
+2022-11-20 21:00:57 Produced message on topic myLogs with value of {"device_id": 80493, "device_name": "Robinson-Computer", "device_ip": "192.168.175.200", "platform": "Ubuntu", "login_date": "2022-11-13 00:04:19"}
+
+2022-11-20 21:01:01 Produced message on topic myLogs with value of {"device_id": 51198, "device_name": "Fox-Computer", "device_ip": "192.168.10.147", "platform": "Windows", "login_date": "2022-11-10 23:59:40"}
+
+2022-11-20 21:01:05 Produced message on topic myLogs with value of {"device_id": 50435, "device_name": "Allen-Computer", "device_ip": "192.168.253.152", "platform": "Windows", "login_date": "2022-11-08 12:37:59"}
+
+2022-11-20 21:01:09 Produced message on topic myLogs with value of {"device_id": 34353, "device_name": "Hernandez-Computer", "device_ip": "172.18.15.87", "platform": "MacOS", "login_date": "2022-11-10 02:44:37"}
+
+2022-11-20 21:01:13 Produced message on topic myLogs with value of {"device_id": 58071, "device_name": "Anderson-Computer", "device_ip": "10.26.14.206", "platform": "MacOS", "login_date": "2022-11-17 11:27:31"}
+
+2022-11-20 21:01:17 Produced message on topic myLogs with value of {"device_id": 94233, "device_name": "Cunningham-Computer", "device_ip": "172.22.44.6", "platform": "MacOS", "login_date": "2022-11-08 09:54:53"}
+
+2022-11-20 21:01:21 Produced message on topic myLogs with value of {"device_id": 70335, "device_name": "Hester-Computer", "device_ip": "192.168.120.166", "platform": "Windows", "login_date": "2022-11-09 05:33:05"}
+
+2022-11-20 21:01:26 Produced message on topic myLogs with value of {"device_id": 77412, "device_name": "Pham-Computer", "device_ip": "192.168.148.241", "platform": "Ubuntu", "login_date": "2022-11-12 18:00:06"}
+
+2022-11-20 21:01:30 Produced message on topic myLogs with value of {"device_id": 37281, "device_name": "Cook-Computer", "device_ip": "192.168.5.210", "platform": "Ubuntu", "login_date": "2022-11-17 20:18:49"}
+
+2022-11-20 21:01:34 Produced message on topic myLogs with value of {"device_id": 61051, "device_name": "Jones-Computer", "device_ip": "172.18.122.125", "platform": "Windows", "login_date": "2022-11-14 23:37:11"}
+
+2022-11-20 21:01:38 Produced message on topic myLogs with value of {"device_id": 26963, "device_name": "Chapman-Computer", "device_ip": "10.62.233.65", "platform": "Ubuntu", "login_date": "2022-11-05 23:43:40"}
+
+2022-11-20 21:01:42 Produced message on topic myLogs with value of {"device_id": 92825, "device_name": "Hutchinson-Computer", "device_ip": "172.22.1.121", "platform": "Ubuntu", "login_date": "2022-11-10 19:55:34"}
+
+2022-11-20 21:01:46 Produced message on topic myLogs with value of {"device_id": 58244, "device_name": "George-Computer", "device_ip": "192.168.245.56", "platform": "Windows", "login_date": "2022-11-05 22:36:29"}
+
+2022-11-20 21:01:50 Produced message on topic myLogs with value of {"device_id": 66757, "device_name": "Nash-Computer", "device_ip": "172.30.76.111", "platform": "Windows", "login_date": "2022-11-04 18:07:40"}
+
+2022-11-20 21:01:54 Produced message on topic myLogs with value of {"device_id": 22129, "device_name": "Hamilton-Computer", "device_ip": "10.50.20.50", "platform": "Ubuntu", "login_date": "2022-11-13 19:11:02"}
+
+2022-11-20 21:01:58 Produced message on topic myLogs with value of {"device_id": 71340, "device_name": "Murphy-Computer", "device_ip": "10.110.43.71", "platform": "Windows", "login_date": "2022-11-02 02:45:42"}
+
+2022-11-20 21:02:02 Produced message on topic myLogs with value of {"device_id": 75391, "device_name": "Morris-Computer", "device_ip": "172.30.11.31", "platform": "Ubuntu", "login_date": "2022-11-18 08:52:55"}
+
+2022-11-20 21:02:06 Produced message on topic myLogs with value of {"device_id": 93814, "device_name": "Bennett-Computer", "device_ip": "10.13.221.225", "platform": "Ubuntu", "login_date": "2022-11-07 23:45:53"}
+
+2022-11-20 21:02:10 Produced message on topic myLogs with value of {"device_id": 55177, "device_name": "Coffey-Computer", "device_ip": "192.168.186.120", "platform": "Windows", "login_date": "2022-11-14 09:07:31"}
+
+2022-11-20 21:02:14 Produced message on topic myLogs with value of {"device_id": 60774, "device_name": "Taylor-Computer", "device_ip": "172.18.124.89", "platform": "Windows", "login_date": "2022-11-09 10:15:35"}
+
+2022-11-20 21:02:18 Produced message on topic myLogs with value of {"device_id": 51057, "device_name": "Williams-Computer", "device_ip": "10.55.114.130", "platform": "MacOS", "login_date": "2022-11-18 06:40:10"}
+
+2022-11-20 21:02:22 Produced message on topic myLogs with value of {"device_id": 80784, "device_name": "Moses-Computer", "device_ip": "172.19.0.24", "platform": "MacOS", "login_date": "2022-11-14 20:32:22"}
+
+2022-11-20 21:02:26 Produced message on topic myLogs with value of {"device_id": 48884, "device_name": "Rhodes-Computer", "device_ip": "10.8.212.103", "platform": "Ubuntu", "login_date": "2022-11-06 13:37:06"}
+
+2022-11-20 21:02:30 Produced message on topic myLogs with value of {"device_id": 25150, "device_name": "Wiley-Computer", "device_ip": "172.29.152.243", "platform": "Ubuntu", "login_date": "2022-11-18 01:55:41"}
+
+2022-11-20 21:02:34 Produced message on topic myLogs with value of {"device_id": 43987, "device_name": "Sanchez-Computer", "device_ip": "10.15.125.140", "platform": "Ubuntu", "login_date": "2022-11-18 18:53:41"}
+
+2022-11-20 21:02:38 Produced message on topic myLogs with value of {"device_id": 55971, "device_name": "Crosby-Computer", "device_ip": "172.22.67.216", "platform": "Windows", "login_date": "2022-11-12 04:24:47"}
+
+2022-11-20 21:02:42 Produced message on topic myLogs with value of {"device_id": 83352, "device_name": "Adams-Computer", "device_ip": "10.249.230.30", "platform": "Windows", "login_date": "2022-11-06 16:48:05"}
+
+2022-11-20 21:02:46 Produced message on topic myLogs with value of {"device_id": 77828, "device_name": "King-Computer", "device_ip": "192.168.177.243", "platform": "Ubuntu", "login_date": "2022-11-18 06:21:42"}
+
+2022-11-20 21:24:40 Produced message on topic myLogs with value of {"device_id": 48970, "device_name": "Ross-Computer", "device_ip": "192.168.221.42", "platform": "MacOS", "login_date": "2022-11-05 22:19:32"}
+
+2022-11-20 21:24:45 Produced message on topic myLogs with value of {"device_id": 91329, "device_name": "Todd-Computer", "device_ip": "172.28.14.105", "platform": "Ubuntu", "login_date": "2022-11-14 17:34:04"}
+
+2022-11-20 21:24:49 Produced message on topic myLogs with value of {"device_id": 61918, "device_name": "Quinn-Computer", "device_ip": "172.30.248.54", "platform": "Ubuntu", "login_date": "2022-11-08 23:48:31"}
 

@@ -20,7 +20,7 @@ fake=Faker()
 logging.basicConfig(format='%(asctime)s %(message)s',
                     datefmt='%Y-%m-%d %H:%M:%S',
                     filename='producer.log',
-                    filemode='w')
+                    filemode='a')
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
@@ -37,7 +37,7 @@ def receipt(err,msg):
         print(message)
 
 def main():
-    for i in range(1):
+    while True:
         data={
            'device_id': fake.random_int(min=20000, max=100000),
            'device_name':fake.last_name()+"-Computer",
